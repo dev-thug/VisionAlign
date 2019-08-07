@@ -32,6 +32,7 @@ private:
 	MyImage m_ImgRes; // 현재 임계값을 이용하여 m_DibSrc를 이진화한 영상
 	CRect rect; // 이미지 윈도우 크기 변수
 
+
 public:
 	// 이미지변수 세터
 	void SetImage(MyImage& image);
